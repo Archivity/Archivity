@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/archivity/precache-manifest.a6081eb3a211bf67a446d93fffe9a780.js"
+  "/archivity/precache-manifest.f5490da82b1110291c733991c14656f8.js"
 );
 
 self.addEventListener('message', (event) => {

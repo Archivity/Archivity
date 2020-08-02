@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d74f457e973782a7a90c06e7d6433fac",
+    "revision": "3ac42bc31900daf7e636987d146c7b31",
     "url": "/archivity/index.html"
   },
   {
-    "revision": "199a43bcfbdfc5eb352c",
+    "revision": "9fa4d3e417b691787b9d",
     "url": "/archivity/static/css/2.75c4ecca.chunk.css"
   },
   {
-    "revision": "d0f72e9ce266fba494f3",
+    "revision": "9f02cbb5529325ed29b9",
     "url": "/archivity/static/css/main.81ba28c6.chunk.css"
   },
   {
-    "revision": "199a43bcfbdfc5eb352c",
-    "url": "/archivity/static/js/2.1ca7dcc7.chunk.js"
+    "revision": "9fa4d3e417b691787b9d",
+    "url": "/archivity/static/js/2.910b2462.chunk.js"
   },
   {
     "revision": "4e5653c2aea1f8f01a4afdf4252ee778",
-    "url": "/archivity/static/js/2.1ca7dcc7.chunk.js.LICENSE.txt"
+    "url": "/archivity/static/js/2.910b2462.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d0f72e9ce266fba494f3",
-    "url": "/archivity/static/js/main.1f64800a.chunk.js"
+    "revision": "9f02cbb5529325ed29b9",
+    "url": "/archivity/static/js/main.ef44e659.chunk.js"
   },
   {
     "revision": "993cccb07f276593aceb",
