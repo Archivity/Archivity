@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
-import {Switch, HashRouter as Route} from 'react-router-dom';
+import {Switch, Route} from 'react-router-dom';
 import Home from './components/Home';
 import Artmain from './components/Gallery/Art&Craft/Artmain';
 import Archi from './components/Gallery/Architec/Architecmain';
